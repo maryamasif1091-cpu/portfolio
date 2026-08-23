@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio
 
-## Getting Started
+A modern, fully responsive developer portfolio built with Next.js, TypeScript, and Tailwind CSS, designed to showcase academic focused projects, systems programming, and UI/UX design work through a clean, interactive, and professional digital experience.  
 
-First, run the development server:
+## 🛠️ Tech Stack
+
+* **Framework:** Next.js (App Router)
+* **Language:** TypeScript
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion
+* **Icons:** Lucide React & React Icons
+
+##  Featured Domains & Projects
+
+The portfolio highlights a diverse range of hands-on projects across multiple disciplines:
+
+* **Artificial Intelligence & Machine Learning:** AI Movie Recommender, Wumpus World Simulation, and Dynamic Pathfinding Agents using A* / Greedy Search.
+* **Full-Stack & Web Development:** Recruitment & Applicant Tracking System (ATS), Job Portal, Interactive Games, and Utility Web Applications.
+* **Systems Programming & Data Structures:** Core Banking System using PHP/MySQL, Google Drive File System Simulation using C++, and Multi-Campus Information Exchange System using TCP/UDP in C++.
+* **UI/UX Design:** Mobile Application Interfaces and Interactive Prototypes designed in Figma.
+
+##  Portfolio Features
+
+* Fully responsive design
+* Modern developer-focused UI
+* Interactive animations with Framer Motion
+* Project showcase with detailed descriptions
+* Technical skills and technology sections
+* Academic and software engineering projects
+* UI/UX design portfolio
+* Smooth navigation and user-friendly experience
+* Optimized for desktop, tablet, and mobile devices
+
+##  Getting Started Locally
+
+To run this project on your local machine:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/maryamasif1091-cpu/portfolio.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd portfolio
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+##  Project Structure
 
-## Learn More
+```text
+portfolio/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+├── components/
+├── public/
+├── lib/
+├── package.json
+├── tsconfig.json
+├── tailwind.config.ts
+└── README.md
+```
 
-To learn more about Next.js, take a look at the following resources:
+##  Repository
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+GitHub Repository: https://github.com/maryamasif1091-cpu/portfolio.git
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+##  License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is created for personal portfolio and educational purposes.
