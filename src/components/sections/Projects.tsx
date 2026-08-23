@@ -132,13 +132,13 @@ const projectsData = [
     image: "/images/Projects/react-job-portal.jpg",
     domain: "Web Development",
   },
-  {
+ {
     title: "SafeHer - Women Safety Frontend UI",
     description: "A responsive women safety frontend UI featuring quick access to SOS alerts and live location sharing.",
     technologies: ["HTML5", "CSS3", "JavaScript", "UI Design"],
-    githubUrl: "https://github.com/maryamasif1091-cpu",
-    liveUrl: "",
-    mediumUrl: "https://safe-her-56ef.netlify.app/",
+    githubUrl: "NOT_AVAILABLE",
+    liveUrl: "https://safe-her-56ef.netlify.app/",
+    mediumUrl: "https://medium.com/@maryamasif1091/%EF%B8%8F-safeher-women-safety-frontend-ui-3f22e87975c2",
     image: "/images/Projects/SafeHer-Women Safety.jpg",
     domain: "UI/UX & Frontend",
   },
@@ -292,7 +292,6 @@ export default function Projects() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: index * 0.03 }}
-              whileHover={{ scale: 1.03, zIndex: 20 }}
               className="bg-[#0c0c14] dark:bg-[#0c0c14] light:bg-white border border-white/15 dark:border-white/10 light:border-black/10 rounded-2xl overflow-hidden flex flex-col justify-between shadow-xl hover:border-[#00ced1]/60 transition-all duration-300 group"
             >
               <div>
