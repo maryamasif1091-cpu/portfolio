@@ -2,7 +2,7 @@
 
 A modern, fully responsive developer portfolio built with Next.js, TypeScript, and Tailwind CSS, designed to showcase academic focused projects, systems programming, and UI/UX design work through a clean, interactive, and professional digital experience.  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Framework:** Next.js (App Router)
 * **Language:** TypeScript
@@ -86,7 +86,8 @@ portfolio/
 
 GitHub Repository: https://github.com/maryamasif1091-cpu/portfolio.git
 
+## Deployment Link:
+https://portfolio-nu-seven-lijx2hj0t9.vercel.app/
 
 ##  License
-
 This project is created for personal portfolio and educational purposes.
