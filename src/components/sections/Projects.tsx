@@ -132,11 +132,11 @@ const projectsData = [
     image: "/images/Projects/react-job-portal.jpg",
     domain: "Web Development",
   },
- {
+  {
     title: "SafeHer - Women Safety Frontend UI",
     description: "A responsive women safety frontend UI featuring quick access to SOS alerts and live location sharing.",
     technologies: ["HTML5", "CSS3", "JavaScript", "UI Design"],
-    githubUrl: "NOT_AVAILABLE",
+    githubUrl: "https://github.com/maryamasif1091-cpu/Safe-Her-Women-Safety-UI",
     liveUrl: "https://safe-her-56ef.netlify.app/",
     mediumUrl: "https://medium.com/@maryamasif1091/%EF%B8%8F-safeher-women-safety-frontend-ui-3f22e87975c2",
     image: "/images/Projects/SafeHer-Women Safety.jpg",
