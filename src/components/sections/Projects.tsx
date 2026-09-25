@@ -39,6 +39,16 @@ const projectsData = [
     image: "/images/Projects/dynamic-path-agent.jpg",
     domain: "Algorithms & GUI",
   },
+    {
+    title: "Pikoora",
+    description: "A web-based Wumpus World simulation demonstrating game logic and environment exploration mechanics.",
+    technologies: ["React.js", "JavaScript", "Tailwind CSS"],
+    githubUrl: "https://github.com/maryamasif1091-cpu/Pikoora",
+    liveUrl: "https://pikoora.vercel.app/",
+    mediumUrl: "",
+    image: "/images/Projects/pikoora.jpg",
+    domain: "Web Development",
+  },
   {
     title: "Wumpus World Game",
     description: "A web-based Wumpus World simulation demonstrating game logic and environment exploration mechanics.",
